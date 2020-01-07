@@ -1,6 +1,6 @@
 # Los Simpsons Frases API
 
-A simple API de Los Simpsons!
+Una simple API de Los Simpsons!
 
 ## Production host
 
